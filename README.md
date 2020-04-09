@@ -1,4 +1,4 @@
-# Named Entity Recognition engine Documentation
+# Named Entity Recognition with UIMA
 
 ## Overview 
 
